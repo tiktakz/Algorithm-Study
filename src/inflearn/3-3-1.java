@@ -1,3 +1,4 @@
+package inflearn;
 import java.util.Scanner;
 
 class Main3_3_1 {

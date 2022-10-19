@@ -1,4 +1,5 @@
-// review
+package inflearn;
+
 import java.util.Scanner;
 
 class Main1_1 {

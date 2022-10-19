@@ -1,3 +1,4 @@
+package inflearn;
 import java.util.*;
 
 class Main4_2 {

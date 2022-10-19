@@ -1,3 +1,5 @@
+
+package inflearn;
 import java.util.Scanner;
 import java.util.Arrays;
 
