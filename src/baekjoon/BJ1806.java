@@ -15,7 +15,7 @@ class BJ1806 {
         int min = Integer.MAX_VALUE;
 
         int pt1 = 0, pt2 = 0;
-        int sum = 0
+        int sum = 0;
         while (true) {
             if (sum >= s) {
                 sum -= arr[pt1++];
