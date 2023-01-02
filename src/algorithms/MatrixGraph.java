@@ -29,10 +29,6 @@ class MatrixGraph {
         }
     }
 
-    public int[][] getGraph() {
-        return this.graph;
-    }
-
     public static void main(String[] args) {
         int size = 6;
         MatrixGraph graph = new MatrixGraph(size);
