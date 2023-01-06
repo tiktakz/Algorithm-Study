@@ -22,10 +22,10 @@ class Inf0708 {
             int length = q.size(); // 레벨별로 큐의 사이즈. 처음은 1개니까 1개, 그 다음은 3갈래 즉 3개
             for (int i=0; i<length; i++) {
                 int x = q.poll();
-                if (x == cow) return level;
+                if (x == cow) return level; // 바로 뽑은 값이 목표지점이면 level 반환
                 for (int j=0; j<jumps.length; j++) {
-                    int nx = x + jumps[j];
-                    if (nx >= 1 && nx <= 10000 && !visited[nx]) {
+                    int nx = x + jumps[j]; // 이동할 수 있는 좌표 계산
+                    if (nx >= 1 && nx <= 10000 && !visited[nx]) { // 이동할 수 있는 좌표가 방문하지 않았고 갈 수 있어야함
                         visited[nx] = true;
                         q.offer(nx);
                     }
