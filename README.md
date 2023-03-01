@@ -19,3 +19,5 @@
 2. [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=java)
 3. [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=java)
 4. [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844?language=java)
+5. [특정 거리의 도시찾기](https://www.acmicpc.net/problem/18352)
+6. [연구소](https://www.acmicpc.net/problem/14502)
