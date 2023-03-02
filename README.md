@@ -23,3 +23,5 @@
 6. [연구소](https://www.acmicpc.net/problem/14502) - [풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%8014502.java)
 7. [경쟁적 전염](https://www.acmicpc.net/problem/18405)-
 [풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%8018405.java)
+8. [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) - [풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%8014888.java)
+9. [감시 피하기](https://www.acmicpc.net/problem/18428) - [풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%8018428.java)
