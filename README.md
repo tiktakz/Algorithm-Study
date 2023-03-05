@@ -25,3 +25,5 @@
 [풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%8018405.java)
 8. [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) - [풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%8014888.java)
 9. [감시 피하기](https://www.acmicpc.net/problem/18428) - [풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%8018428.java)
+10. [깊이우선탐색1 DFS](https://www.acmicpc.net/problem/24479) - [풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%8024479.java)
+11. [넓이우선탐색1 BFS]([https](https://www.acmicpc.net/problem/24444)
