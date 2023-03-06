@@ -29,3 +29,6 @@
 11. [넓이우선탐색1 BFS](https://www.acmicpc.net/problem/24444) - [풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%8024444.java)
 12. [바이러스](https://acmicpc.net/problem/2606) - [풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%802606.java)
 13. [단지번호붙이기](https://acmicpc.net/problem/2667) - [풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%802667.java)
+14. [유기농 배추](https://acmicpc.net/problem/1012) - [풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%801012.java)
+15. [미로 탐색](https://acmicpc.net/problem/2178) - [풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%802178.java)
+
