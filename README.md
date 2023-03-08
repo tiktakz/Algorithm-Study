@@ -35,3 +35,5 @@
 |16. [숨바꼭질](https://www.acmicpc.net/problem/1697)|[풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%801697.java)|
 |17. [토마토](https://www.acmicpc.net/problem/7576)|[풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%807576.java)
 |18. [뱀과 사다리](https://acmicpc.net/problem/16928)|[풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%8016928.java)
+|19. [인구 이동](https://acmicpc.net/problem/16234)|[풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%8016234.java)
+|20. [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |[풀이](https://github.com/tiktakz/Algorithm-Data-Structures/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%802206.java)
