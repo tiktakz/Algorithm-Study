@@ -15,8 +15,8 @@
 
 
 ### [탐색]
-|문제|풀이|
-|---|---|
+|문제|풀이|다시풀기|
+|---|---|---|
 |1. [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165?language=java)|테스트2|
 |2. [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=java)|테스트2|
 |3. [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163?language=java)|테스트2|
