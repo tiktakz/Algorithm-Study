@@ -10,9 +10,15 @@
 7. [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410?language=java)
 
 
-### [프로그래머스 - 재귀]
-1. 
+### [브루트포스]
+|문제|풀이|다시풀기|
+|---|---|---|
+|1. [블랙잭](https://www.acmicpc.net/problem/2798) ||
 
+### [정렬]
+|문제|풀이|다시풀기|
+|---|---|---|
+|1. [수 정렬하기3](https://www.acmicpc.net/problem/10989)||
 
 ### [탐색]
 |문제|풀이|다시풀기|
