@@ -13,7 +13,11 @@
 ### [브루트포스]
 |문제|풀이|다시풀기|
 |---|---|---|
-|1. [블랙잭](https://www.acmicpc.net/problem/2798) ||
+|1. [블랙잭](https://www.acmicpc.net/problem/2798)|[풀이](https://github.com/tiktakz/Codingtest_Problems/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%802798.java)|
+|2. [분해합](https://www.acmicpc.net/problem/2231) |[풀이](https://github.com/tiktakz/Codingtest_Problems/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%802231.java)|
+|3. [덩치](https://www.acmicpc.net/problem/7568) |[풀이](https://github.com/tiktakz/Codingtest_Problems/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%807568.java)|
+|4. [체스판 칠하기](https://www.acmicpc.net/problem/1018)|[풀이](https://github.com/tiktakz/Codingtest_Problems/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%801018.java)|
+|5. [영화감독 숌](https://www.acmicpc.net/problem/1436)|[풀이](https://github.com/tiktakz/Codingtest_Problems/blob/master/src/%EB%B3%B5%EC%8A%B5%ED%92%80%EC%9D%B4/%EB%B0%B1%EC%A4%801436.java)||
 
 ### [정렬]
 |문제|풀이|다시풀기|
